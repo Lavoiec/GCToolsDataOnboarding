@@ -34,8 +34,8 @@ Use whatever IDE you feel comfortable with. Here are some recommendations
 
 ### Useful Technical Links
 * [GCTools Github](https://github.com/gctools-outilsgc)
-  * [Project Overlay Link](https://github.com/gctools-outilsgc/gcconnex-project-overlay)
-  * [GCconnex Module Link](https://github.com/gctools-outilsgc/GCconnex-Module)
+  * [Project Overlay](https://github.com/gctools-outilsgc/gcconnex-project-overlay)
+  * [GCconnex Module](https://github.com/gctools-outilsgc/GCconnex-Module)
   * [GCTools Design System](https://gctools-outilsgc.gitbook.io/-gcdigital-design-system)
 * [Elgg Database Documentation](http://learn.elgg.org/en/2.0/design/database.html)
 * [MediaWiki Database Documentation](https://www.mediawiki.org/wiki/Manual:Database_layout)
