@@ -50,6 +50,6 @@ I highly recommend checking out [Hadley Wickham's Readings in Applied Data Scien
 ### Statistics Reading
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9) Adi Bronshtein, 2017
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, 2017
- * Only read Chapters 1 and 2. Ignore Labs and Exercises.
- * Other chapters will be used as references if/when we need them.
+  * Only read Chapters 1 and 2. Ignore Labs and Exercises.
+  * Other chapters will be used as references if/when we need them.
  
