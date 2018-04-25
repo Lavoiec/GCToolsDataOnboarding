@@ -29,6 +29,8 @@ Recommended Documents for New Data Students in the Digital Collaboration Team
 Use whatever IDE you feel comfortable with. Here are some recommendations
 
 For Python and Javascript: [Visual Studio Code](https://code.visualstudio.com/)
+
 For Exploratory Data Analysis in Python and R: [Jupyter Notebook](http://jupyter.org/)
+
 For Work in R: [RStudio](https://www.rstudio.com/)
 
