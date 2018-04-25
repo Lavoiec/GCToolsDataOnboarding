@@ -24,6 +24,9 @@ Recommended Documents for New Data Students in the Digital Collaboration Team
 * [Mozilla Developer Course](https://developer.mozilla.org/en-US/docs/Learn)
 * [W3Schools](https://www.w3schools.com/)
 
+#### SQL
+* [W3Schools SQL](https://www.w3schools.com/sql/)
+
 
 ### IDEs
 Use whatever IDE you feel comfortable with. Here are some recommendations
