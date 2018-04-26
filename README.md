@@ -23,6 +23,7 @@ Recommended Documents for New Data Students in the Digital Collaboration Team
 #### Web Development
 * [Mozilla Developer Course](https://developer.mozilla.org/en-US/docs/Learn)
 * [W3Schools](https://www.w3schools.com/)
+* [D3.js](https://d3js.org/)
 
 #### SQL
 * [W3Schools SQL](https://www.w3schools.com/sql/)
