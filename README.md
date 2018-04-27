@@ -1,5 +1,5 @@
 # GCToolsDataOnboarding
-Recommended Documents for New Data Students in the Digital Collaboration Team
+Recommended Documents for New Data Students in the Digital Collaboration Team. None of these links are mandatory, but the [Useful Technical Links](#useful-technical-links) and [Good Readings on Data Science](#good-readings-on-data-science) sections will be immediately useful, whereas the [Lanuage Introduction](#language-introduction) section is meant more as a reference.
 
 
 ### Languages Used
