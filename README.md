@@ -57,4 +57,7 @@ I highly recommend checking out [Hadley Wickham's Readings in Applied Data Scien
 * [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf): Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, 2017
   * Only read Chapters 1 and 2. Ignore Labs and Exercises.
   * Other chapters will be used as references if/when we need them.
+  
+* [Omitted Variable Bias and Data Science](http://rpubs.com/Chrislavoie/OVB): Chris Lavoie, 2018
+  * A quick article I wrote trying to explain Omitted Variable Bias, and how it might impact you in your day-to-day work
  
